@@ -2,9 +2,6 @@
 
 Please Click The Names to Find the Repository
 
-## [Covid Warrior](https://github.com/Pratham-Mittal/Covid-Warrior.git)
-Created the original PACMAN Game with a twist and a motive of spreading awareness regarding covid-19 virus using Java Swing Components and API.
-
 ## [8 Puzzle Problem](https://github.com/Pratham-Mittal/8-PUZZLE-PROBLEM.git)
 Solved the classic 8 Puzzle problem in Java using A* Manhattan algorithm and UCS.
 

@@ -14,5 +14,8 @@ Program in c++ to calculate age of a person
 ## [Tic-Tac-Toe](https://github.com/Pratham-Mittal/TIC-TAC-TOE.git)
 Tic-Tac-Toe Game made using C++
 
+## [Covid-Warrior](https://github.com/Pratham-Mittal/PacMan)
+Pac-man modified to make awareness about covid-19
+
 
 

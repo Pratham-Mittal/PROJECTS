@@ -20,5 +20,6 @@ Pac-man modified to make awareness about covid-19 made in java.
 ## [Minesweeper](https://github.com/Pratham-Mittal/Minesweeper)
 Minesweeper as a 2020 covid version made in java.
 
-
+## [House Price Prediction](https://github.com/Pratham-Mittal/House-Price-Prediction)
+Program to predict house prices based on the dataset given on kaggle.
 

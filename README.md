@@ -15,7 +15,10 @@ Program in c++ to calculate age of a person
 Tic-Tac-Toe Game made using C++
 
 ## [Covid-Warrior](https://github.com/Pratham-Mittal/PacMan)
-Pac-man modified to make awareness about covid-19
+Pac-man modified to make awareness about covid-19 made in java.
+
+## [Minesweeper](https://github.com/Pratham-Mittal/Minesweeper)
+Minesweeper as a 2020 covid version made in java.
 
 
 

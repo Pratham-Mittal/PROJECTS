@@ -2,6 +2,9 @@
 
 Please Click The Names to Find the Repository
 
+## [COVID-19 PREDICTION](https://github.com/Pratham-Mittal/COVID-19-Prediction.git)
+Using java to predict covid-19 cases in different parts of UK.
+
 ## [8 Puzzle Problem](https://github.com/Pratham-Mittal/8-PUZZLE-PROBLEM.git)
 Solved the classic 8 Puzzle problem in Java using A* Manhattan algorithm and UCS.
 

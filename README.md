@@ -2,8 +2,6 @@
 
 Please Click The Names to Find the Repository
 
-## [AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/Guess-the-number)
-C++ Assignment to create a guess the number game
 
 ## [AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/AI-Puzzle-solver)
 Using Java to develop AI algorithms to solve tetris and 2048.
@@ -13,6 +11,9 @@ Using java to predict covid-19 cases in different parts of UK.
 
 ## [8 Puzzle Problem](https://github.com/Pratham-Mittal/8-PUZZLE-PROBLEM.git)
 Solved the classic 8 Puzzle problem in Java using A* Manhattan algorithm and UCS.
+
+## [Guess the Number](https://github.com/Pratham-Mittal/Guess-the-number)
+C++ Assignment to create a guess the number game
 
 ## [Rise in Sea Level](https://github.com/Pratham-Mittal/Rise-in-sea-level-map-prediction.git)
 This is simple java program which read the dataset of ETOPIO1 1 ARC-MINUTE GLOBAL RELIEF MODEL and predicts the geographic map of the world after a certain rise in sea level.

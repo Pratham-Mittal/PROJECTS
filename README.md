@@ -2,6 +2,9 @@
 
 Please Click The Names to Find the Repository
 
+## [AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/Guess-the-number)
+C++ Assignment to create a guess the number game
+
 ## [AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/AI-Puzzle-solver)
 Using Java to develop AI algorithms to solve tetris and 2048.
 

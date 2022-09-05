@@ -2,7 +2,7 @@
 
 Please Click The Names to Find the Repository
 
-##[AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/AI-Puzzle-solver)
+## [AI PUZZLE SOLVER](https://github.com/Pratham-Mittal/AI-Puzzle-solver)
 Using Java to develop AI algorithms to solve tetris and 2048.
 
 ## [COVID-19 PREDICTION](https://github.com/Pratham-Mittal/COVID-19-Prediction.git)

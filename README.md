@@ -2,6 +2,9 @@
 
 Please Click The Names to Find the Repository
 
+##[AI Puzzle Solver](https://github.com/Pratham-Mittal/COVID-19-Prediction.git)
+Using Java to develop AI algorithms to solve tetris and 2048.
+
 ## [COVID-19 PREDICTION](https://github.com/Pratham-Mittal/COVID-19-Prediction.git)
 Using java to predict covid-19 cases in different parts of UK.
 
